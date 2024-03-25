@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MireaApp_4</string>
+    <string name="send">send</string>
+    <string name="edit_text_name">Name here!</string>
+    <string name="edit_text_surname">Surname here!</string>
+    <string name="send_data">Send data</string>
+    <string name="day">Day here!</string>
+    <string name="time">Time here!</string>
+    <string name="commentary">Comments here!</string>
+</resources>
